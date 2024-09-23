@@ -14,7 +14,7 @@ def converstion(inlist):
 #Fonction qui enlève certain caractères spéciaux et sépare les mots de l'input
 #IN txt
 #OU liste
-    midlist.lower(inlist)
+    midlist = inlist.lower()
     oulist = midlist.replace("."," .").replace(","," ").replace("?"," ").replace("!"," ").replace("l'"," l' ")
     cutlist = oulist.split()
     return cutlist    
