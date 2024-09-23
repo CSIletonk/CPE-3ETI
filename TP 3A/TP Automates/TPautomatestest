@@ -1,4 +1,26 @@
 """
 TP Automates 
 DZIOPA Raphael 3ETI
+
+DONE:
+    Ecrit les lignes de tests de l'automate
+TO DO:
+    none
+
+EXEMPLES:
+"le joli chat mange."
+"le ,joli chat ; dort."
+"la grosse souris verte mange le joli petite chat blanc." 
+"la grosse souris verte mange jean." 
+"Jean dort."
+"Jean mange Martin."
+"Jean mange le chat."
+"la verte souris grosse petit mange le bleu verte chat petite."
 """
+
+"""Import du fichier fonction"""
+import TPautomatesfx as f
+
+
+"""Ligne de test"""
+f.runauto("la verte grosse petit mange le bleu verte chat petite.")
