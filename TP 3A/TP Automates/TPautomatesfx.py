@@ -5,8 +5,8 @@ DZIOPA Raphael
 
 DONE:
     Ecrit et testé l'automate
-TO DO:
     Tester avec un saisie par l'utilisateur
+TO DO:
     Utiliser un plus grand dictionnaire de mots
 """
 
