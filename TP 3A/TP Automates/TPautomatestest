@@ -16,6 +16,7 @@ EXEMPLES:
 "Jean mange Martin."
 "Jean mange le chat."
 "la verte souris grosse petit mange le bleu verte chat petite."
+"la verte grosse petit mange le bleu verte chat petite." CECI doit donner une phrase fausse
 """
 
 """Import du fichier fonction"""
@@ -23,4 +24,4 @@ import TPautomatesfx as f
 
 
 """Ligne de test"""
-f.runauto("la verte grosse petit mange le bleu verte chat petite.")
+f.runauto(input("Phrase à vérifier : "))
