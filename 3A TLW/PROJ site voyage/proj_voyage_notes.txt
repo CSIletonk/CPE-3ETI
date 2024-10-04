@@ -1,0 +1,23 @@
+deadline vendredi 20/12 minuit
+
+affichage pc
+bonnes pratiques
+
+min 5pages
+    acceuil
+    reservation
+    panier
+    confirmation
+    contact
+
+notifier qui fait quoi
+check copyright sur media
+fichier commun de roadmap
+
+
+dev architecture
+	lucidchart
+
+
+
+
